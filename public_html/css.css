@@ -1,0 +1,23 @@
+.center {
+    margin: auto;
+    width: 50%;
+    border: 2px solid green;
+    padding: 10px;
+}
+
+div {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.align {
+    text-align: center; 
+    vertical-align: middle;
+    
+}
+.c {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
